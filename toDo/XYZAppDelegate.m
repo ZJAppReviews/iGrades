@@ -24,8 +24,8 @@
          UIRemoteNotificationTypeSound];
     }
     
-    [Parse setApplicationId:@"eRbKsHaerFfKW0ElaRGBWCT4wvMIjhPbbURlBdF6"
-                  clientKey:@"ZDpmaiVZNIBG7DzF8KJVyqndUXoMPuIKcY6nps2n"];
+    [Parse setApplicationId:@""
+                  clientKey:@""];
     
     [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
     
